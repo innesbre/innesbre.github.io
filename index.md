@@ -3,12 +3,23 @@ layout: default
 title: CV
 ---
 
-# Brendan T Innes
-stuff and things  
-hello world.  
+# Summary
+Scientist focused on systems biology from transcriptomics.  Expert in cell-cell interaction inference from single-cell transcriptomes, and more generally the interpretation of scRNAseq data.  Very comfortable helping biologists unlock meaningful conclusions in their high-dimensional experimental data.
 
-# Second section
+# Research Experience
+## PhD
+### Publications
+
+## MSc
+### Publications
+
+
+
+# Teaching Experience
+And more?  
+
+# Education
 more things and stuff.  
 
-## Subheading
-And more?  
+# Academic Awards and Honours
+
