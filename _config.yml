@@ -5,3 +5,4 @@ plugins:
 title: Brendan T. Innes
 show_downloads: false
 logo: img/headshot.jpg
+toc: true
