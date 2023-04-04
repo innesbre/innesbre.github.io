@@ -32,16 +32,14 @@
           Citations: [<a href="https://scholar.google.com/citations?user=zyFRoPQAAAAJ&hl=en">Google</a>|<a href="https://www.semanticscholar.org/author/Brendan-T.-Innes/50131001">Semantic</a>] Scholar<br>
           <a href="https://baderlab.org/BrendanInnes">Me @ Baderlab.org</a><br>
         </p>
-        <hr>
-        {% if page.toc %}
-
-          {% include toc.html html=content %}
-        
-        {% endif %}
 
       </header>
       <section>
-      
+      {% if page.toc %}
+        {% include toc.html html=content %}
+      {% endif %}
+      <hr>
+
       {{ content }}
 
       </section>
