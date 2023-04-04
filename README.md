@@ -1,6 +1,5 @@
 ---
-title: "CV"
-toc: true
+title: CV
 ---
 
 # Brendan T Innes
