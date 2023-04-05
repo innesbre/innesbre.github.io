@@ -6,6 +6,28 @@ title: CV
 # Summary
 Biochemist-turned-bioinformatician focused on systems biology from transcriptomics.  Expert in cell-cell interaction inference from single-cell transcriptomes, and more generally the interpretation of scRNAseq data.  Very comfortable helping biologists unlock meaningful conclusions in their high-dimensional experimental data.  Demonstrated ability to learn new analysis techniques and data modalities.
 
+
+# Education
+<table>
+  <tr>
+    <td>2016-2023</td>
+    <td>Ph.D. candidate, Molecular Genetics, University of Toronto<br>
+        Thesis:	Intercellular signaling networks of a tissue from single-cell transcriptomics.<br>
+        Advisor: <a href="https://baderlab.org/">Dr. Gary Bader</a></td>
+  </tr>
+  <tr>
+    <td>2010-2013</td>
+    <td>M.Sc., Biochemistry, University of Western Ontario<br>
+        Thesis:	Exploring the structure and biochemistry of oxidation-mediated inhibition of the peptidyl-prolyl isomerase Pin1.<br>
+        Advisor: <a href="https://www.schulich.uwo.ca/biochem/people/faculty/Litchfield.html">Dr. David Litchfield</a></td>
+  </tr>
+  <tr>
+    <td>2005-2010</td>
+    <td>B.M.Sc., Honours Specialization in Cell Biology & Biochemistry, University of Western Ontario</td>
+  </tr>
+</table>
+
+
 # Research Experience
 ## PhD
 ### Publications
@@ -45,7 +67,7 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
 
 # Teaching Experience
 <table>
-  </tr> 
+  <tr></tr> 
   <tr>
     <td>2020-2021</td><td>TA: Foundational Genetic Approaches II: Programming for Biologists</td>
   </tr>
@@ -56,8 +78,6 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
     <td>2015-2017</td><td>TA: Quantitative Biology and Statistical Methods</td>
   </tr>
 </table>
-  
-# Education
 
 
 # Academic Awards and Honours
