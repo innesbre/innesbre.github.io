@@ -45,14 +45,15 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
 
 # Teaching Experience
 <table>
+  </tr>
   <tr>
     <td>2020-2021</td><td>TA: Foundational Genetic Approaches II: Programming for Biologists</td>
   </tr>
   <tr>
-    <td>2019-2020</td><td>TA for MMG1001H - Foundational Genetic Approaches I: Genomics</td>
+    <td>2019-2020</td><td>TA: Foundational Genetic Approaches I: Genomics</td>
   </tr>
   <tr>
-    <td>2015-2017</td><td>TA for MBP1010H - Quantitative Biology and Statistical Methods</td>
+    <td>2015-2017</td><td>TA: Quantitative Biology and Statistical Methods</td>
   </tr>
 </table>
   
@@ -81,4 +82,4 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
   </tr>
 </table>
 
-# Beyond academia, who is Brendan?
+# Beyond academia, who am I?
