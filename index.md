@@ -35,45 +35,51 @@ My most recent PhD work focuses on predicting ligand-receptor interactions from 
 
 ### Publications
 
-**Innes BT** & Bader GD. **Transcriptional signatures of cell-cell interactions are dependent on cellular context**. *biorxiv*, 2021. https://doi.org/10.1101/2021.09.06.459134
+**Innes BT** & Bader GD. [Transcriptional signatures of cell-cell interactions are dependent on cellular context](https://doi.org/10.1101/2021.09.06.459134). *biorxiv*, 2021. 
+
+Ximerakis M, Lipnick SL, **Innes BT**, Simmons SK, Adiconis X, Dionne D, Nguyen L, Mayweather BA, Ozek C, Niziolek Z, Butty VL, Isserlin R, Buchanan SM, Levine SR, Regev A, Bader GD, Levin JZ, Rubin LL. [Single-cell transcriptomic profiling of the aging mouse brain](https://doi.org/10.1038/s41593-019-0491-3). *Nature Neuroscience* 2019.  
 
 
 ## Analysis and visualization of scRNAseq data
 
 ### Publications
 
+**Innes BT** & Bader GD. [scClustViz – Single-cell RNAseq cluster assessment and visualization** [version 2; peer review: 2 approved]](http://doi.org/10.12688/f1000research.16198.2). *F1000Research* 2019.  
+*Our interactive scRNAseq data reporting solution. Also proposed a novel metric for assessing cluster results and highlighted a common error in differential expression magnitude reporting.*
+
+Yuzwa SA, Borrett MJ, **Innes BT**, Voronova A, Ketela T, Kaplan DR, Bader GD, Miller FD. [Developmental Emergence of Adult Neural Stem Cells as Revealed by Single-Cell Transcriptional Profiling](https://doi.org/10.1016/j.celrep.2017.12.017). *Cell Reports* 2017.  
+*Learned how to perform scRNAseq analysis as one of the first groups in Toronto with DropSeq data, aided data interpretation through novel visualizations.*
+
+MacParland SA, Liu JC, Ma XZ, **Innes BT**, Bartczak AM, Gage BK, Manuel J, Khuu N, Echeverri J, Linares I, Gupta R, Cheng ML, Liu LY, Camat D, Chung SW, Seliga RK, Shao Z, Lee E, Ogawa S, Ogawa M, Wilson MD, Fish JE, Selzner M, Ghanekar A, Grant D, Greig P, Sapisochin G, Selzner N, Winegarden N, Adeyi O, Keller G, Bader GD, McGilvray ID. [Single cell RNA sequencing of human liver reveals distinct intrahepatic macrophage populations](https://doi.org/10.1038/s41467-018-06318-7). *Nature Communications* 2018.  
+*Performed scRNAseq analysis of the first whole human organ single-cell atlas. Learned a lot about contaminating RNA and patient-specific signal.*
+
+Gage B, Lui JC, **Innes BT**, MacParland SA, McGilvray ID, Bader GD, Keller GM. [Generation of functional liver sinusoidal endothelial cells from human pluripotent stem-cell-derived venous angioblasts](https://doi.org/10.1016/j.stem.2020.06.007). *Cell Stem Cell*, 2020.  
+*Aided in implementation of scRNAseq analysis workflow, scClustViz used to interpret and share data.*
+
+Borrett MJ, **Innes BT**, Jeong D, Tahmasian N, Storer MA, Bader GD, Kaplan DR, Miller FD.  [Single-cell profiling shows murine forebrain neural stem cells reacquire a developmental state when activated for adult neurogenesis](https://doi.org/10.1016/j.celrep.2020.108022). *Cell Reports*, 2020.  
+*Performed factor analysis to place cells and identify gene expression programs associated with differentiation and cell fate axes, performed GSEA.*
+
+Clarke ZA, Andrews TS, Atif J, Pouyabahar D, **Innes BT**, MacParland SA,  Bader GD.  [Tutorial: guidelines for annotating single-cell transcriptomic maps using automated and manual methods](https://doi.org/10.1038/s41596-021-00534-0). *Nature Protocols*, 2021.  
+*Contributed example visualizations.*
+
+Coles BLK, Labib M, Poudineh M, **Innes BT**, Belair-Hickey J, Gomis S, Wang Z, Bader GD, Sargent EH, Kelley SO, van der Kooy D. [A microfluidic platform enables comprehensive gene expression profiling of mouse retinal stem cells](https://doi.org/10.1039/D1LC00790D). *Lab on a Chip*, 2021.  
+*Performed scRNAseq analysis workflow, scClustViz used to interpret and share data.*
+
+Borrett MJ, **Innes BT**, Tahmasian N, Bader GD, Kaplan DR, Miller FD. [A Shared Transcriptional Identity for Forebrain and Dentate Gyrus Neural Stem Cells from Embryogenesis to Adulthood](https://dx.doi.org/10.1523/ENEURO.0271-21.2021). *eNeuro*, 2022.  
+*Performed factor analysis to place cells and identify gene expression programs associated with differentiation and cell fate axes, performed GSEA.*
+
 Schwab N, Taskina D, Leung E, **Innes BT**, Bader GD, Hazrati LN.  [Neurons and glial cells acquire a senescent signature after repeated mild traumatic brain injury in a sex-dependent manner](https://doi.org/10.3389/fnins.2022.1027116). *Frontiers in Neuroscience*, 2022.   
 *Taught lead author to use my analysis workflow, performed GSEA.*  
-
-Borrett MJ, **Innes BT**, Tahmasian N, Bader GD, Kaplan DR, Miller FD. [A Shared Transcriptional Identity for Forebrain and Dentate Gyrus Neural Stem Cells from Embryogenesis to Adulthood](https://dx.doi.org/10.1523/ENEURO.0271-21.2021). *eNeuro*, 2022.
-*Performed factor analysis to identify *
-
-Coles BLK, Labib M, Poudineh M, **Innes BT**, Belair-Hickey J, Gomis S, Wang Z, Bader GD, Sargent EH, Kelley SO, van der Kooy D. **A microfluidic platform enables comprehensive gene expression profiling of mouse retinal stem cells**. *Lab on a Chip*, 2021. https://doi.org/10.1039/D1LC00790D
-
-
-Clarke ZA, Andrews TS, Atif J, Pouyabahar D, **Innes BT**, MacParland SA,  Bader GD.  **Tutorial: guidelines for annotating single-cell transcriptomic maps using automated and manual methods**. *Nature Protocols*, 2021. https://doi.org/10.1038/s41596-021-00534-0
-
-Borrett MJ, **Innes BT**, Jeong D, Tahmasian N, Storer MA, Bader GD, Kaplan DR, Miller FD.  **Single-cell profiling shows murine forebrain neural stem cells reacquire a developmental state when activated for adult neurogenesis**. *Cell Reports*, 2020. https://doi.org/10.1016/j.celrep.2020.108022
-
-Gage B, Lui JC, **Innes BT**, MacParland SA, McGilvray ID, Bader GD, Keller GM. **Generation of functional liver sinusoidal endothelial cells from human pluripotent stem-cell-derived venous angioblasts**. *Cell Stem Cell*, 2020. https://doi.org/10.1016/j.stem.2020.06.007
-
-Ximerakis M, Lipnick SL, **Innes BT**, Simmons SK, Adiconis X, Dionne D, Nguyen L, Mayweather BA, Ozek C, Niziolek Z, Butty VL, Isserlin R, Buchanan SM, Levine SR, Regev A, Bader GD, Levin JZ, Rubin LL. **Single-cell transcriptomic profiling of the aging mouse brain**. *Nature Neuroscience* 2019. https://doi.org/10.1038/s41593-019-0491-3
-
-**Innes BT** & Bader GD. **scClustViz – Single-cell RNAseq cluster assessment and visualization** [version 2; peer review: 2 approved]. *F1000Research* 2019. http://doi.org/10.12688/f1000research.16198.2
-
-MacParland SA, Liu JC, Ma XZ, **Innes BT**, Bartczak AM, Gage BK, Manuel J, Khuu N, Echeverri J, Linares I, Gupta R, Cheng ML, Liu LY, Camat D, Chung SW, Seliga RK, Shao Z, Lee E, Ogawa S, Ogawa M, Wilson MD, Fish JE, Selzner M, Ghanekar A, Grant D, Greig P, Sapisochin G, Selzner N, Winegarden N, Adeyi O, Keller G, Bader GD, McGilvray ID. **Single cell RNA sequencing of human liver reveals distinct intrahepatic macrophage populations**. *Nature Communications* 2018. https://doi.org/10.1038/s41467-018-06318-7
-
-Yuzwa SA, Borrett MJ, **Innes BT**, Voronova A, Ketela T, Kaplan DR, Bader GD, Miller FD. **Developmental Emergence of Adult Neural Stem Cells as Revealed by Single-Cell Transcriptional Profiling**. *Cell Reports* 2017.  https://doi.org/10.1016/j.celrep.2017.12.017
-
 
 
 ## MSc
 ### Publications
-**Innes BT**, Sowole MA, Gyenis L, Dubinsky M, Konermann L, Brandl CJ, Litchfield DW, Shilton BH. **Peroxide-Mediated Oxidation and Inhibition of the Peptidyl-Prolyl Isomerase Pin1**. *Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease* 2015. https://doi.org/10.1016/j.bbadis.2014.12.025
+**Innes BT**, Sowole MA, Gyenis L, Dubinsky M, Konermann L, Brandl CJ, Litchfield DW, Shilton BH. [Peroxide-Mediated Oxidation and Inhibition of the Peptidyl-Prolyl Isomerase Pin1](https://doi.org/10.1016/j.bbadis.2014.12.025). *Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease* 2015.  
+*MSc thesis work.*.
 
-Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Konermann L. **Noncovalent binding of a cyclic peptide inhibitor to the peptidyl-prolyl isomerase Pin1 explored by hydrogen exchange mass spectrometry**. *Canadian Journal of Chemistry* 2014. https://doi.org/10.1139/cjc-2014-0230
+Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Konermann L. [Noncovalent binding of a cyclic peptide inhibitor to the peptidyl-prolyl isomerase Pin1 explored by hydrogen exchange mass spectrometry](https://doi.org/10.1139/cjc-2014-0230). *Canadian Journal of Chemistry* 2014.  
 
-**Innes BT**, Bailey ML, Brandl CJ, Shilton BH, Litchfield DW. **Non-catalytic participation of the Pin1 peptidyl-prolyl isomerase domain in target binding**. *Frontiers in Physiology* 2013. https://doi.org/10.3389/fphys.2013.00018
+**Innes BT**, Bailey ML, Brandl CJ, Shilton BH, Litchfield DW. [Non-catalytic participation of the Pin1 peptidyl-prolyl isomerase domain in target binding](https://doi.org/10.3389/fphys.2013.00018). *Frontiers in Physiology* 2013.  
 
 
 # Teaching Experience
@@ -81,16 +87,16 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
   <tr>
     <td>2020-2021</td>
     <td>TA: Foundational Genetic Approaches II: Programming for Biologists<br>
-        Taught programming exercise tutorials and marked assignments.</td>
+        <em>Taught programming exercise tutorials and marked assignments.</em></td>
   </tr>
   <tr>
     <td>2019-2020</td>
     <td>TA: Foundational Genetic Approaches I: Genomics<br>
-        Developed and ran tutorials and assignments on fundamental applications in genomics, as well as ran weekly journal club.</td>
+        <em>Developed and ran tutorials and assignments on fundamental applications in genomics, as well as ran weekly journal club.</em></td>
   </tr>
   <tr>
     <td>2015-2017</td><td>TA: Quantitative Biology and Statistical Methods<br>
-        Responsible for the content and presentation of weekly tutorials applying course material to computational assignments using R.</td>
+        <em>Responsible for the content and presentation of weekly tutorials applying course material to computational assignments using R.</em></td>
   </tr>
 </table>
 
