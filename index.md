@@ -28,17 +28,28 @@ Biochemist-turned-bioinformatician focused on systems biology from transcriptomi
 </table>
 
 
-# Research Experience
-## PhD
+# Research Projects
+
+## Cell-cell interaction prediction
+My most recent PhD work focuses on predicting ligand-receptor interactions from scRNAseq data. 
+
 ### Publications
 
-Schwab N, Taskina D, Leung E, **Innes BT**, Bader GD, Hazrati LN.  **Neurons and glial cells acquire a senescent signature after repeated mild traumatic brain injury in a sex-dependent manner**. *Frontiers in Neuroscience*, 2022. https://doi.org/10.3389/fnins.2022.1027116
+**Innes BT** & Bader GD. **Transcriptional signatures of cell-cell interactions are dependent on cellular context**. *biorxiv*, 2021. https://doi.org/10.1101/2021.09.06.459134
 
-Borrett MJ, **Innes BT**, Tahmasian N, Bader GD, Kaplan DR, Miller FD. **A Shared Transcriptional Identity for Forebrain and Dentate Gyrus Neural Stem Cells from Embryogenesis to Adulthood**. *eNeuro*, 2022. https://dx.doi.org/10.1523/ENEURO.0271-21.2021
+
+## Analysis and visualization of scRNAseq data
+
+### Publications
+
+Schwab N, Taskina D, Leung E, **Innes BT**, Bader GD, Hazrati LN.  [Neurons and glial cells acquire a senescent signature after repeated mild traumatic brain injury in a sex-dependent manner](https://doi.org/10.3389/fnins.2022.1027116). *Frontiers in Neuroscience*, 2022.   
+*Taught lead author to use my analysis workflow, performed GSEA.*  
+
+Borrett MJ, **Innes BT**, Tahmasian N, Bader GD, Kaplan DR, Miller FD. [A Shared Transcriptional Identity for Forebrain and Dentate Gyrus Neural Stem Cells from Embryogenesis to Adulthood](https://dx.doi.org/10.1523/ENEURO.0271-21.2021). *eNeuro*, 2022.
+*Performed factor analysis to identify *
 
 Coles BLK, Labib M, Poudineh M, **Innes BT**, Belair-Hickey J, Gomis S, Wang Z, Bader GD, Sargent EH, Kelley SO, van der Kooy D. **A microfluidic platform enables comprehensive gene expression profiling of mouse retinal stem cells**. *Lab on a Chip*, 2021. https://doi.org/10.1039/D1LC00790D
 
-**Innes BT** & Bader GD. **Transcriptional signatures of cell-cell interactions are dependent on cellular context**. *biorxiv*, 2021. https://doi.org/10.1101/2021.09.06.459134
 
 Clarke ZA, Andrews TS, Atif J, Pouyabahar D, **Innes BT**, MacParland SA,  Bader GD.  **Tutorial: guidelines for annotating single-cell transcriptomic maps using automated and manual methods**. *Nature Protocols*, 2021. https://doi.org/10.1038/s41596-021-00534-0
 
@@ -67,15 +78,19 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
 
 # Teaching Experience
 <table>
-  <tr></tr> 
   <tr>
-    <td>2020-2021</td><td>TA: Foundational Genetic Approaches II: Programming for Biologists</td>
+    <td>2020-2021</td>
+    <td>TA: Foundational Genetic Approaches II: Programming for Biologists<br>
+        Taught programming exercise tutorials and marked assignments.</td>
   </tr>
   <tr>
-    <td>2019-2020</td><td>TA: Foundational Genetic Approaches I: Genomics</td>
+    <td>2019-2020</td>
+    <td>TA: Foundational Genetic Approaches I: Genomics<br>
+        Developed and ran tutorials and assignments on fundamental applications in genomics, as well as ran weekly journal club.</td>
   </tr>
   <tr>
-    <td>2015-2017</td><td>TA: Quantitative Biology and Statistical Methods</td>
+    <td>2015-2017</td><td>TA: Quantitative Biology and Statistical Methods<br>
+        Responsible for the content and presentation of weekly tutorials applying course material to computational assignments using R.</td>
   </tr>
 </table>
 
