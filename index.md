@@ -31,16 +31,19 @@ Biochemist-turned-bioinformatician focused on systems biology from transcriptomi
 # Research Projects
 
 ## Cell-cell interaction prediction
-My most recent PhD work focuses on predicting ligand-receptor interactions from scRNAseq data. 
+My most recent PhD work focuses on predicting ligand-receptor interactions from scRNAseq data. First I leveraged our labs experience making similar predictions from bulk transcriptomes to build [CCInx](https://baderlab.github.io/CCInx/vignettes/CCInxUsage.html). While considering approaches to improve the specificity of our predictions, I identified a flawed assumption underpinning the current state-of-the-art methods.
 
 ### Publications
 
-**Innes BT** & Bader GD. [Transcriptional signatures of cell-cell interactions are dependent on cellular context](https://doi.org/10.1101/2021.09.06.459134). *biorxiv*, 2021. 
+**Innes BT** & Bader GD. [Transcriptional signatures of cell-cell interactions are dependent on cellular context](https://doi.org/10.1101/2021.09.06.459134). *biorxiv*, 2021.  
+*Systematically demonstrated fundamental flaw in state-of-the-art cell-cell interaction inference methods, hypothesized solution.*
 
 Ximerakis M, Lipnick SL, **Innes BT**, Simmons SK, Adiconis X, Dionne D, Nguyen L, Mayweather BA, Ozek C, Niziolek Z, Butty VL, Isserlin R, Buchanan SM, Levine SR, Regev A, Bader GD, Levin JZ, Rubin LL. [Single-cell transcriptomic profiling of the aging mouse brain](https://doi.org/10.1038/s41593-019-0491-3). *Nature Neuroscience* 2019.  
+*Applied my CCInx prediction method to identify ligand-receptor interactions differentially abundant in the aging murine brain.*
 
 
 ## Analysis and visualization of scRNAseq data
+I began my PhD as high-throughput scRNAseq became available, and no best practices existed. Learning how to analyze this data in collaboration with the [Princess Margaret Genomics Centre](https://www.pmgenomics.ca/) community was the highlight of my PhD. I built and maintained a custom workflow and reporting tool based on our assessments of available methods, and expanded on it as needed for our various scientific collaborations. 
 
 ### Publications
 
@@ -72,7 +75,9 @@ Schwab N, Taskina D, Leung E, **Innes BT**, Bader GD, Hazrati LN.  [Neurons and 
 *Taught lead author to use my analysis workflow, performed GSEA.*  
 
 
-## MSc
+## Structure & function of Pin1
+
+
 ### Publications
 **Innes BT**, Sowole MA, Gyenis L, Dubinsky M, Konermann L, Brandl CJ, Litchfield DW, Shilton BH. [Peroxide-Mediated Oxidation and Inhibition of the Peptidyl-Prolyl Isomerase Pin1](https://doi.org/10.1016/j.bbadis.2014.12.025). *Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease* 2015.  
 *MSc thesis work.*.
@@ -80,6 +85,7 @@ Schwab N, Taskina D, Leung E, **Innes BT**, Bader GD, Hazrati LN.  [Neurons and 
 Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Konermann L. [Noncovalent binding of a cyclic peptide inhibitor to the peptidyl-prolyl isomerase Pin1 explored by hydrogen exchange mass spectrometry](https://doi.org/10.1139/cjc-2014-0230). *Canadian Journal of Chemistry* 2014.  
 
 **Innes BT**, Bailey ML, Brandl CJ, Shilton BH, Litchfield DW. [Non-catalytic participation of the Pin1 peptidyl-prolyl isomerase domain in target binding](https://doi.org/10.3389/fphys.2013.00018). *Frontiers in Physiology* 2013.  
+**
 
 
 # Teaching Experience
