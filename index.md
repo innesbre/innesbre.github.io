@@ -45,7 +45,7 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
 
 # Teaching Experience
 <table>
-  </tr>
+  </tr> 
   <tr>
     <td>2020-2021</td><td>TA: Foundational Genetic Approaches II: Programming for Biologists</td>
   </tr>
