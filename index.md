@@ -31,6 +31,7 @@ Biochemist-turned-bioinformatician focused on systems biology from transcriptomi
 # Research Projects
 
 ## Cell-cell interaction prediction
+*PhD work under Dr. Gary Bader at the Donnelly Centre, University of Toronto*  
 My most recent PhD work focuses on predicting ligand-receptor interactions from scRNAseq data. First I leveraged our labs experience making similar predictions from bulk transcriptomes to build [CCInx](https://baderlab.github.io/CCInx/vignettes/CCInxUsage.html). While considering approaches to improve the specificity of our predictions, I identified a flawed assumption underpinning the current state-of-the-art methods.
 
 ### Publications
@@ -43,7 +44,8 @@ Ximerakis M, Lipnick SL, **Innes BT**, Simmons SK, Adiconis X, Dionne D, Nguyen 
 
 
 ## Analysis and visualization of scRNAseq data
-I began my PhD as high-throughput scRNAseq became available, and no best practices existed. Learning how to analyze this data in collaboration with the [Princess Margaret Genomics Centre](https://www.pmgenomics.ca/) community was the highlight of my PhD. I built and maintained a custom workflow and reporting tool based on our assessments of available methods, and expanded on it as needed for our various scientific collaborations. 
+*PhD work under Dr. Gary Bader at the Donnelly Centre, University of Toronto*  
+I began my PhD as high-throughput scRNAseq became available, and no best practices existed. A community of of trainees came together to form the [Toronto scAnalysis working group](https://bit.ly/TOscRNAseq) to tackle this challenge.  Learning how to analyze this new data modality while contributing heavily to this community was the highlight of my PhD. I built and maintained a custom workflow and reporting tool based on our assessments of available methods, and expanded on it as needed for our various scientific collaborations.  This tool, [scClustViz](https://baderlab.github.io/scClustViz/) has enabled my collaborators to interpret their own scRNAseq data and [share our published results](http://shiny.baderlab.org/).  
 
 ### Publications
 
@@ -76,7 +78,8 @@ Yuzwa SA, Borrett MJ, **Innes BT**, Voronova A, Ketela T, Kaplan DR, Bader GD, M
 
 
 ## Structure & function of Pin1
-
+*MSc work under Dr. David Litchfield at the University of Western Ontario*  
+Studied the structural effects of oxidative stress on Pin1 isomerase activity, as well as its domain-specific binding mechanisms. Systematically assayed structural requirements for novel small-molecule Pin1 inhibitors.
 
 ### Publications
 **Innes BT**, Sowole MA, Gyenis L, Dubinsky M, Konermann L, Brandl CJ, Litchfield DW, Shilton BH. [Peroxide-Mediated Oxidation and Inhibition of the Peptidyl-Prolyl Isomerase Pin1](https://doi.org/10.1016/j.bbadis.2014.12.025). *Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease* 2015.  
