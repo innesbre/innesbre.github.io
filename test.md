@@ -53,31 +53,31 @@ I began my PhD as high-throughput scRNAseq became available, and no best practic
 ### Publications
 
 Schwab N, Taskina D, Leung E, **Innes BT**, Bader GD, Hazrati LN.  [Neurons and glial cells acquire a senescent signature after repeated mild traumatic brain injury in a sex-dependent manner](https://doi.org/10.3389/fnins.2022.1027116). Frontiers in Neuroscience, 2022.   
-*Taught lead author to use my analysis workflow, performed GSEA.*  
+- Taught lead author to use my analysis workflow, performed GSEA.
 
 Borrett MJ, **Innes BT**, Tahmasian N, Bader GD, Kaplan DR, Miller FD. [A Shared Transcriptional Identity for Forebrain and Dentate Gyrus Neural Stem Cells from Embryogenesis to Adulthood](https://dx.doi.org/10.1523/ENEURO.0271-21.2021). eNeuro, 2022.  
-*Performed factor analysis to place cells and identify gene expression programs associated with differentiation and cell fate axes, performed GSEA.*
+- Performed factor analysis to place cells and identify gene expression programs associated with differentiation and cell fate axes, performed GSEA.
 
 Coles BLK, Labib M, Poudineh M, **Innes BT**, Belair-Hickey J, Gomis S, Wang Z, Bader GD, Sargent EH, Kelley SO, van der Kooy D. [A microfluidic platform enables comprehensive gene expression profiling of mouse retinal stem cells](https://doi.org/10.1039/D1LC00790D). Lab on a Chip, 2021.  
-*Performed scRNAseq analysis workflow, scClustViz used to interpret and share data.*
+- Performed scRNAseq analysis workflow, scClustViz used to interpret and share data.
 
 Clarke ZA, Andrews TS, Atif J, Pouyabahar D, **Innes BT**, MacParland SA,  Bader GD.  [Tutorial: guidelines for annotating single-cell transcriptomic maps using automated and manual methods](https://doi.org/10.1038/s41596-021-00534-0). Nature Protocols, 2021.  
-*Contributed example visualizations.*
+- Contributed example visualizations.
 
 Borrett MJ, **Innes BT**, Jeong D, Tahmasian N, Storer MA, Bader GD, Kaplan DR, Miller FD.  [Single-cell profiling shows murine forebrain neural stem cells reacquire a developmental state when activated for adult neurogenesis](https://doi.org/10.1016/j.celrep.2020.108022). Cell Reports, 2020.  
-*Performed factor analysis to place cells and identify gene expression programs associated with differentiation and cell fate axes, performed GSEA.*
+- Performed factor analysis to place cells and identify gene expression programs associated with differentiation and cell fate axes, performed GSEA.
 
 Gage B, Lui JC, **Innes BT**, MacParland SA, McGilvray ID, Bader GD, Keller GM. [Generation of functional liver sinusoidal endothelial cells from human pluripotent stem-cell-derived venous angioblasts](https://doi.org/10.1016/j.stem.2020.06.007). *Cell Stem Cell*, 2020.  
-*Aided in implementation of scRNAseq analysis workflow, scClustViz used to interpret and share data.*
+- Aided in implementation of scRNAseq analysis workflow, scClustViz used to interpret and share data.
 
 **Innes BT** & Bader GD. [scClustViz – Single-cell RNAseq cluster assessment and visualization** [version 2; peer review: 2 approved]](http://doi.org/10.12688/f1000research.16198.2). F1000Research, 2019.  
-*Our interactive scRNAseq data reporting solution. Also proposed a novel metric for assessing cluster results and highlighted a common error in differential expression magnitude reporting.*
+- Our interactive scRNAseq data reporting solution. Also proposed a novel metric for assessing cluster results and highlighted a common error in differential expression magnitude reporting.
 
 MacParland SA, Liu JC, Ma XZ, **Innes BT**, Bartczak AM, Gage BK, Manuel J, Khuu N, Echeverri J, Linares I, Gupta R, Cheng ML, Liu LY, Camat D, Chung SW, Seliga RK, Shao Z, Lee E, Ogawa S, Ogawa M, Wilson MD, Fish JE, Selzner M, Ghanekar A, Grant D, Greig P, Sapisochin G, Selzner N, Winegarden N, Adeyi O, Keller G, Bader GD, McGilvray ID. [Single cell RNA sequencing of human liver reveals distinct intrahepatic macrophage populations](https://doi.org/10.1038/s41467-018-06318-7). Nature Communications, 2018.  
-*Performed scRNAseq analysis of the first whole human organ single-cell atlas. Learned a lot about contaminating RNA and patient-specific signal.*
+- Performed scRNAseq analysis of the first whole human organ single-cell atlas. Learned a lot about contaminating RNA and patient-specific signal.
 
 Yuzwa SA, Borrett MJ, **Innes BT**, Voronova A, Ketela T, Kaplan DR, Bader GD, Miller FD. [Developmental Emergence of Adult Neural Stem Cells as Revealed by Single-Cell Transcriptional Profiling](https://doi.org/10.1016/j.celrep.2017.12.017). Cell Reports, 2017.  
-*Learned how to perform scRNAseq analysis as one of the first groups in Toronto with DropSeq data, aided data interpretation through novel visualizations.*
+- Learned how to perform scRNAseq analysis as one of the first groups in Toronto with DropSeq data, aided data interpretation through novel visualizations.
 
 
 ## Structure & function of Pin1
@@ -87,13 +87,13 @@ Studied the structural effects of oxidative stress on Pin1 isomerase activity, a
 
 ### Publications
 **Innes BT**, Sowole MA, Gyenis L, Dubinsky M, Konermann L, Brandl CJ, Litchfield DW, Shilton BH. [Peroxide-Mediated Oxidation and Inhibition of the Peptidyl-Prolyl Isomerase Pin1](https://doi.org/10.1016/j.bbadis.2014.12.025). Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease, 2015.  
-*Used x-ray crystallography to identify atomic structures of Pin1 undergoing pathologically relevant reversible and irreversible oxidation.*
+- Used x-ray crystallography to identify atomic structures of Pin1 undergoing pathologically relevant reversible and irreversible oxidation.
 
 Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Konermann L. [Noncovalent binding of a cyclic peptide inhibitor to the peptidyl-prolyl isomerase Pin1 explored by hydrogen exchange mass spectrometry](https://doi.org/10.1139/cjc-2014-0230). Canadian Journal of Chemistry, 2014.  
-*Systematic assessment of peptide inhibitors of Pin1 by phage display led to the development of this candidate molecule.*  
+- Systematic assessment of peptide inhibitors of Pin1 by phage display led to the development of this candidate molecule.
 
 **Innes BT**, Bailey ML, Brandl CJ, Shilton BH, Litchfield DW. [Non-catalytic participation of the Pin1 peptidyl-prolyl isomerase domain in target binding](https://doi.org/10.3389/fphys.2013.00018). Frontiers in Physiology, 2013.  
-*Assayed kinetics and specificity of substrate binding in the context of pathologically relevant Pin1 mutants.*
+- Assayed kinetics and specificity of substrate binding in the context of pathologically relevant Pin1 mutants.
 
 
 ## Other projects
