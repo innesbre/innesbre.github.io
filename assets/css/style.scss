@@ -152,6 +152,12 @@ h3 {
   }
 }
 
+@media screen and (max-height: 710px) {
+  div.bigtoc {
+    display: none;
+  }
+}
+
 @media print {
   body {
     padding:0.4in;
