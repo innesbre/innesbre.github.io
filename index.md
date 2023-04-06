@@ -152,9 +152,34 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
 </table>
 
 # Beyond academia, who am I?
-<div class="container">
-  <img src="img/dog.JPG" alt="Avatar" class="image" style="width:100%">
-  <div class="middle">
-    <div class="text">John Doe</div>
+<div class="row">
+  <div class="column">
+	<div class="container">
+  		<img src="rtcc.jpg" alt="Dad & I riding 1st RTCC" class="image">
+  		<div class="overlay">After my Dad was diagnosed with cancer in 2008, my family and I have ridden every Ride to Conquer Cancer.  Our team has raised over $2M for Princess Margaret Cancer Centre.</div>
+	</div>
+  </div>
+  
+  <div class="column">
+	<div class="container">
+  		<img src="race.jpeg" alt="In the pack at a crit" class="image">
+  		<div class="overlay">Thanks to that commitment to the RTCC, I also dabble in a little bike racing.</div>
+	</div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+	<div class="container">
+  		<img src="hike.jpg" alt="Us approaching Mount Afton" class="image">
+  		<div class="overlay">My wife, my brother, and I enjoy doing some spicy hiking in the mountains whenever we can.</div>
+	</div>
+  </div>
+  
+  <div class="column">
+	<div class="container">
+  		<img src="dog.JPG" alt="Moose modeling" class="image">
+  		<div class="overlay">I also have a silly-sized dog.</div>
+	</div>
   </div>
 </div>
