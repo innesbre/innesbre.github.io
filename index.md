@@ -104,7 +104,7 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
   </tr>
   <tr>
     <td>2013-2015</td>
-    <td><em>Ph.D. student under Dr. Igor Jurisica, Medical Biophysics, University of Toronto. (Not completed)</em><br>
+    <td><em>Ph.D. student under Dr. Igor Jurisica, Medical Biophysics, University of Toronto. (Withdrawn)</em><br>
         Investigated the histotype-specific role of Cdx2 in ovarian cancer progression using publicly available microarray expression data, applying various statistical and network analysis techniques.</td>
   </tr>
 </table>
@@ -156,7 +156,7 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
   <div class="column">
 	<div class="container">
   		<img src="img/rtcc.jpg" alt="Dad & I riding 1st RTCC" class="image">
-  		<div class="overlay">After my Dad was diagnosed with cancer in 2008, my family and I have ridden every Ride to Conquer Cancer.  Our team has raised over $2M for the Princess Margaret Cancer Centre.</div>
+  		<div class="overlay">After my Dad was diagnosed with cancer in 2008, my family and I have ridden every Ride to Conquer Cancer.  As captain of our family team, I'm proud that we've raised over $2M for the Princess Margaret Cancer Centre.</div>
 	</div>
   </div>
   
@@ -172,7 +172,7 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
   <div class="column">
 	<div class="container">
   		<img src="img/hike.jpg" alt="Us approaching Mount Afton" class="image">
-  		<div class="overlay">My wife, my brother, and I enjoy doing some spicy hiking in the mountains whenever we can.</div>
+  		<div class="overlay">My wife, my brother, and I enjoy scrambling in the mountains whenever we can.</div>
 	</div>
   </div>
   
