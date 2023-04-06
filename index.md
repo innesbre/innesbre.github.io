@@ -152,34 +152,4 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
 </table>
 
 # Beyond academia, who am I?
-<div class="row">
-  <div class="column">
-	<div class="container">
-  		<img src="img/rtcc.jpg" alt="Dad & I riding 1st RTCC" class="image">
-  		<div class="overlay">After my Dad was diagnosed with cancer in 2008, my family and I have ridden every Ride to Conquer Cancer.  As captain of our family team, I'm proud that we've raised over $2M for the Princess Margaret Cancer Centre.</div>
-	</div>
-  </div>
-  
-  <div class="column">
-	<div class="container">
-  		<img src="img/race.jpeg" alt="In the pack at a crit" class="image">
-  		<div class="overlay">Thanks to that commitment to the RTCC, I also dabble in bike racing.</div>
-	</div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column">
-	<div class="container">
-  		<img src="img/hike.jpg" alt="Us approaching Mount Afton" class="image">
-  		<div class="overlay">My wife, my brother, and I enjoy scrambling in the mountains whenever we can.</div>
-	</div>
-  </div>
-  
-  <div class="column">
-	<div class="container">
-  		<img src="img/dog.JPG" alt="Moose modeling" class="image">
-  		<div class="overlay">I also have a silly-sized dog.</div>
-	</div>
-  </div>
-</div>
+My dad was diagnosed with pancreatic cancer in 2008 at the Princess Margaret Cancer Centre.  That summer he put together a team of family and friends to ride in the inaugural Ride to Conquer Cancer, and its been a part of our lives ever since.  I now co-captain the team with my mom, and our team has ridden together every year, raising over $2M for the Princess Margaret Cancer Centre.  Biking has also become a big part of my life beyond the ride, and I dabble in both mountain biking and road racing.  I enjoy spending time in the mountains with my family when possible - more recently my wife and I have taken up mountaineering.  Finally, my favourite daily hobby is taking our Great Dane, Moose, to the dog park.  
