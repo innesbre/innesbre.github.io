@@ -156,14 +156,14 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
   <div class="column">
 	<div class="container">
   		<img src="img/rtcc.jpg" alt="Dad & I riding 1st RTCC" class="image">
-  		<div class="overlay">After my Dad was diagnosed with cancer in 2008, my family and I have ridden every Ride to Conquer Cancer.  Our team has raised over $2M for Princess Margaret Cancer Centre.</div>
+  		<div class="overlay">After my Dad was diagnosed with cancer in 2008, my family and I have ridden every Ride to Conquer Cancer.  Our team has raised over $2M for the Princess Margaret Cancer Centre.</div>
 	</div>
   </div>
   
   <div class="column">
 	<div class="container">
   		<img src="img/race.jpeg" alt="In the pack at a crit" class="image">
-  		<div class="overlay">Thanks to that commitment to the RTCC, I also dabble in a little bike racing.</div>
+  		<div class="overlay">Thanks to that commitment to the RTCC, I also dabble in bike racing.</div>
 	</div>
   </div>
 </div>

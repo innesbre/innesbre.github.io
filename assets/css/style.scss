@@ -48,3 +48,9 @@
   clear: both;
   display: table;
 }
+
+@media screen and (max-width: 960px) {
+  .column {
+    width: 100%;
+  }
+}
