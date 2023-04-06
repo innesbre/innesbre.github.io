@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+p + ul {
+  margin-top: -10px;
+}
+
+
 * {box-sizing: border-box;}
 
 .container {
@@ -54,3 +59,4 @@
     width: 100%;
   }
 }
+

@@ -43,7 +43,7 @@ My most recent PhD work focuses on predicting ligand-receptor interactions from 
 ### Publications
 
 **Innes BT** & Bader GD. [Transcriptional signatures of cell-cell interactions are dependent on cellular context](https://doi.org/10.1101/2021.09.06.459134). biorxiv, 2021.  
-- Systematically demonstrated fundamental flaw in state-of-the-art cell-cell interaction inference methods, hypothesized solution.
+- Systematically demonstrated fundamental flaw in state-of-the-art cell-cell interaction inference methods, hypothesized solution. 
 
 Ximerakis M, Lipnick SL, **Innes BT**, Simmons SK, Adiconis X, Dionne D, Nguyen L, Mayweather BA, Ozek C, Niziolek Z, Butty VL, Isserlin R, Buchanan SM, Levine SR, Regev A, Bader GD, Levin JZ, Rubin LL. [Single-cell transcriptomic profiling of the aging mouse brain](https://doi.org/10.1038/s41593-019-0491-3). Nature Neuroscience, 2019.  
 - Applied my CCInx prediction method to identify ligand-receptor interactions differentially abundant in the aging murine brain.
