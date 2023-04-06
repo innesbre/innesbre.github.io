@@ -152,6 +152,6 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
 </table>
 
 # Beyond academia, who am I?
-I am captain of Team Innes - we ride every year in the Ride to Conquer Cancer in memory of my dad. We have raised 2M for the Princess Margaret Cancer Centre over 15 years.  
+I am the captain of Team Innes - we ride every year in the Ride to Conquer Cancer in memory of my dad. To date, we have raised over $2M for the Princess Margaret Cancer Centre.  
 
 I dabble in both mountain biking and road racing.  I enjoy spending time in the mountains with my family when possible - more recently my wife and I have taken up mountaineering.  Finally, my favourite daily hobby is taking our Great Dane, Moose, to the dog park.  
