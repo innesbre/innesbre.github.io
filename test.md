@@ -4,12 +4,13 @@ title: CV
 permalink: /test
 ---
 
-# Competencies
-- Biochemist-turned-bioinformatician doing systems biology from transcriptomics.  
-- Expert in cell-cell interaction inference from and analysis of single-cell RNAseq.
+# Summary
+- Biochemist-turned-bioinformatician excited about systems biology.  
+- Expert in analysis and interpretation of single-cell RNAseq data.
+- Passionate about data visualization.
 - Very comfortable helping biologists learn meaningful insights from their high-dimensional experimental data.
 - Demonstrated ability to learn new analysis techniques, data modalities, and biological contexts.
-- Expert in R statistical programming and data visualization, comfortable building workflows in python and bash.
+- Expert in R statistical programming and dashboard building, comfortable building workflows in python and bash.
 
 
 # Education
