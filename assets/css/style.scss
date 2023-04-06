@@ -147,7 +147,7 @@ h3 {
 }
 
 @media screen and (max-height: 836px) {
-  ul.inline_toc {
+  div.bigtoc {
     display: none;
   }
 }
@@ -158,7 +158,7 @@ h3 {
     font-size:12pt;
     color:#444;
   }
-  ul.inline_toc {
+  div.bigtoc {
     display: none;
   }
 }
