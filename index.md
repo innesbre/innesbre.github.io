@@ -104,8 +104,8 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
   </tr>
   <tr>
     <td>2013-2015</td>
-    <td><em>Ph.D. student under Dr. Igor Jurisica, Medical Biophysics, University of Toronto.</em><br>
-        Investigated the histotype-specific role of Cdx2 in ovarian cancer progression using publicly available microarray expression data, applying various statistical and network analysis techniques. <em>Not completed.</em></td>
+    <td><em>Ph.D. student under Dr. Igor Jurisica, Medical Biophysics, University of Toronto. (Not completed)</em><br>
+        Investigated the histotype-specific role of Cdx2 in ovarian cancer progression using publicly available microarray expression data, applying various statistical and network analysis techniques.</td>
   </tr>
 </table>
 
@@ -152,3 +152,4 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
 </table>
 
 # Beyond academia, who am I?
+
