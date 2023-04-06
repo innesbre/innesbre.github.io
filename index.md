@@ -152,4 +152,6 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
 </table>
 
 # Beyond academia, who am I?
-My dad was diagnosed with pancreatic cancer in 2008 at the Princess Margaret Cancer Centre.  That summer he put together a team of family and friends to ride in the inaugural Ride to Conquer Cancer, and its been a part of our lives ever since.  I now co-captain the team with my mom, and our team has ridden together every year, raising over $2M for the Princess Margaret Cancer Centre.  Biking has also become a big part of my life beyond the ride, and I dabble in both mountain biking and road racing.  I enjoy spending time in the mountains with my family when possible - more recently my wife and I have taken up mountaineering.  Finally, my favourite daily hobby is taking our Great Dane, Moose, to the dog park.  
+I am captain of Team Innes - we ride every year in the Ride to Conquer Cancer in memory of my dad. We have raised 2M for the Princess Margaret Cancer Centre over 15 years.  
+
+I dabble in both mountain biking and road racing.  I enjoy spending time in the mountains with my family when possible - more recently my wife and I have taken up mountaineering.  Finally, my favourite daily hobby is taking our Great Dane, Moose, to the dog park.  
