@@ -11,8 +11,8 @@ p + ul {
   margin-top: -10px;
 }
 
-ul + li {
-  margin-top: -10px;
+ul + ul {
+  margin-bottom: 0px;
 }
 
 h1 {
@@ -21,6 +21,10 @@ h1 {
 
 h2 {
   margin: 40px 0 10px;
+}
+
+h1 + h2 {
+  margin-top: 20px;
 }
 
 h3 {
