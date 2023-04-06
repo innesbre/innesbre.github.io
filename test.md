@@ -5,10 +5,10 @@ permalink: /test
 ---
 
 # Competencies
-- Biochemist-turned-bioinformatician focused on systems biology from transcriptomics.  
-- Expert in cell-cell interaction inference from single-cell transcriptomes, and more generally the interpretation of scRNAseq data.
-- Very comfortable helping biologists unlock meaningful conclusions in their high-dimensional experimental data.
-- Demonstrated ability to learn new analysis techniques and data modalities.
+- Biochemist-turned-bioinformatician doing systems biology from transcriptomics.  
+- Expert in cell-cell interaction inference from and analysis of single-cell RNAseq.
+- Very comfortable helping biologists learn meaningful insights from their high-dimensional experimental data.
+- Demonstrated ability to learn new analysis techniques, data modalities, and biological contexts.
 - Expert in R statistical programming and data visualization, comfortable building workflows in python and bash.
 
 
@@ -43,10 +43,13 @@ My most recent PhD work focuses on predicting ligand-receptor interactions from 
 ### Publications
 
 **Innes BT** & Bader GD. [Transcriptional signatures of cell-cell interactions are dependent on cellular context](https://doi.org/10.1101/2021.09.06.459134). biorxiv, 2021.  
-- Systematically demonstrated fundamental flaw in state-of-the-art cell-cell interaction inference methods, hypothesized solution. 
+- Systematically demonstrated fundamental flaw in state-of-the-art cell-cell interaction inference methods.
+- Hypothesized potential solution from advances in other areas of systems biology.
+- Skills: data cleaning, supervised machine learning.
 
 Ximerakis M, Lipnick SL, **Innes BT**, Simmons SK, Adiconis X, Dionne D, Nguyen L, Mayweather BA, Ozek C, Niziolek Z, Butty VL, Isserlin R, Buchanan SM, Levine SR, Regev A, Bader GD, Levin JZ, Rubin LL. [Single-cell transcriptomic profiling of the aging mouse brain](https://doi.org/10.1038/s41593-019-0491-3). Nature Neuroscience, 2019.  
 - Applied my CCInx prediction method to identify ligand-receptor interactions differentially abundant in the aging murine brain.
+- Skills: Coordinated remotely with biology collaborators, built interactive data dashboard.
 
 
 ## Analysis and visualization of scRNAseq data
