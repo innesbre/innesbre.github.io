@@ -110,7 +110,7 @@ h3 {
   }
 }
 
-@media print, screen and (max-width: 720px), screen and (max-height: 836px) {
+@media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
   }
@@ -146,11 +146,20 @@ h3 {
   }
 }
 
+@media screen and (max-height: 836px) {
+  inline_toc {
+    h_max: 1;
+  }
+}
+
 @media print {
   body {
     padding:0.4in;
     font-size:12pt;
     color:#444;
+  }
+  inline_toc {
+    display: none;
   }
 }
 
