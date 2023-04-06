@@ -47,7 +47,7 @@ Ximerakis M, Lipnick SL, **Innes BT**, Simmons SK, Adiconis X, Dionne D, Nguyen 
 ## Analysis and visualization of scRNAseq data
 *2016-2023: PhD work under Dr. Gary Bader, University of Toronto.*  
 
-I began my PhD as high-throughput scRNAseq became available, and no best practices existed. A community of of trainees came together to form the [Toronto scAnalysis working group](https://bit.ly/TOscRNAseq) to tackle this challenge.  Learning how to analyze this new data modality while contributing heavily to this community was the highlight of my PhD. I built and maintained a custom workflow and reporting tool based on our assessments of available methods, and expanded on it as needed for our various scientific collaborations.  This tool, [scClustViz](https://baderlab.github.io/scClustViz/) has enabled my collaborators to interpret their own scRNAseq data and [share our published results](http://shiny.baderlab.org/).  
+I began my PhD as high-throughput scRNAseq became available, and no best practices existed. A community of trainees came together to form the [Toronto scAnalysis working group](https://bit.ly/TOscRNAseq) to tackle this challenge.  Learning how to analyze this new data modality while contributing heavily to this community was the highlight of my PhD. I built and maintained a custom workflow and reporting tool based on our assessments of available methods, and expanded on it as needed for our various scientific collaborations.  This tool, [scClustViz](https://baderlab.github.io/scClustViz/) has enabled my collaborators to interpret their own scRNAseq data and [share our published results](http://shiny.baderlab.org/).  
 
 ### Publications
 
@@ -152,4 +152,9 @@ Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Kone
 </table>
 
 # Beyond academia, who am I?
-
+<div class="container">
+  <img src="img/dog.JPG" alt="Avatar" class="image" style="width:100%">
+  <div class="middle">
+    <div class="text">John Doe</div>
+  </div>
+</div>
