@@ -110,7 +110,7 @@ h3 {
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 720px), screen and (max-height: 836px) {
   body {
     word-wrap:break-word;
   }
