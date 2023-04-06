@@ -4,8 +4,12 @@ title: CV
 permalink: /test
 ---
 
-# Summary
-Biochemist-turned-bioinformatician focused on systems biology from transcriptomics.  Expert in cell-cell interaction inference from single-cell transcriptomes, and more generally the interpretation of scRNAseq data.  Very comfortable helping biologists unlock meaningful conclusions in their high-dimensional experimental data.  Demonstrated ability to learn new analysis techniques and data modalities.
+# Competencies
+- Biochemist-turned-bioinformatician focused on systems biology from transcriptomics.  
+- Expert in cell-cell interaction inference from single-cell transcriptomes, and more generally the interpretation of scRNAseq data.
+- Very comfortable helping biologists unlock meaningful conclusions in their high-dimensional experimental data.
+- Demonstrated ability to learn new analysis techniques and data modalities.
+- Expert in R statistical programming and data visualization, comfortable building workflows in python and bash.
 
 
 # Education
@@ -34,7 +38,7 @@ Biochemist-turned-bioinformatician focused on systems biology from transcriptomi
 ## Cell-cell interaction prediction
 *2016-2023: PhD work under Dr. Gary Bader, University of Toronto.*  
 
-My most recent PhD work focuses on predicting ligand-receptor interactions from scRNAseq data. First I leveraged our labs experience making similar predictions from bulk transcriptomes to build [CCInx](https://baderlab.github.io/CCInx/vignettes/CCInxUsage.html). While considering approaches to improve the specificity of our predictions, I identified a flawed assumption underpinning the current state-of-the-art methods.
+My most recent PhD work focuses on predicting ligand-receptor interactions from scRNAseq data. First I leveraged our lab's experience making similar predictions from bulk transcriptomes to build [CCInx](https://baderlab.github.io/CCInx/vignettes/CCInxUsage.html). While considering approaches to improve the specificity of our predictions, I identified a flawed assumption underpinning the current state-of-the-art methods.
 
 ### Publications
 
