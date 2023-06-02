@@ -207,7 +207,7 @@ I dabble in both mountain biking and road racing.  I enjoy spending time in the 
   <div class="column">
 	<div class="container">
   		<img src="img/hike.jpg" class="image">
-  		<div class="overlay">My wife, my brother, and I on the ridgewalk approach to Mount Afton</div>
+  		<div class="overlay">My wife, my brother, and I on the ridgewalk approach to Mount Abbott</div>
 	</div>
   </div>
   
