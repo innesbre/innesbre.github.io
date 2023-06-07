@@ -55,6 +55,7 @@ My most recent PhD work focuses on predicting ligand-receptor interactions from 
     <div class='altmetric-embed' data-badge-popover='left' data-doi="10.1101/2021.09.06.459134"></div>
   </div>
 </div>
+<br class="clr">
 - Systematically demonstrated fundamental flaw in state-of-the-art cell-cell interaction inference methods.
 - Hypothesized potential solution from advances in other areas of systems biology.
 
