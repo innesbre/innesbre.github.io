@@ -79,8 +79,9 @@ h3 {
 
 /* Align two badges */
 .badges {
-  display: inline-block;
-  vertical-align: middle;
+  float:right;
+  width:90px;
+  margin-left:5px
 }
 
 @media print, screen and (max-width: 960px) {
