@@ -48,9 +48,11 @@ My most recent PhD work focuses on predicting ligand-receptor interactions from 
 
 ### Publications
 
-<span class="__dimensions_badge_embed__" data-doi="10.1101/2021.09.06.459134" data-style="small_rectangle"></span>
-<div class='altmetric-embed' data-badge-popover='right' data-doi="10.1101/2021.09.06.459134"></div>
 **Innes BT** & Bader GD. [Transcriptional signatures of cell-cell interactions are dependent on cellular context](https://doi.org/10.1101/2021.09.06.459134). biorxiv, 2021.  
+<div class="badges">
+  <span class="__dimensions_badge_embed__" data-doi="10.1101/2021.09.06.459134" data-style="small_rectangle"></span>
+  <span class='altmetric-embed' data-badge-popover='right' data-doi="10.1101/2021.09.06.459134"></span>
+</div>
 - Systematically demonstrated fundamental flaw in state-of-the-art cell-cell interaction inference methods.
 - Hypothesized potential solution from advances in other areas of systems biology.
 
