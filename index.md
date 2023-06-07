@@ -166,13 +166,6 @@ Studied the structural effects of oxidative stress on Pin1 isomerase activity, a
 - Used x-ray crystallography to identify atomic structures of Pin1 undergoing pathologically relevant reversible and irreversible oxidation.
 
 <div class="badges">
-  <div class="__dimensions_badge_embed__" data-doi="10.1139/cjc-2014-0230" data-style="small_rectangle"></div>
-  <div class='altmetric-embed' data-badge-popover='left' data-doi="10.1139/cjc-2014-0230"></div>
-</div>
-Sowole MA, **Innes BT**, Amunugama M, Brandl CJ, Shilton BH, Litchfield DW, Konermann L. [Noncovalent binding of a cyclic peptide inhibitor to the peptidyl-prolyl isomerase Pin1 explored by hydrogen exchange mass spectrometry](https://doi.org/10.1139/cjc-2014-0230). Canadian Journal of Chemistry, 2014.  
-- Systematic assessment of peptide inhibitors of Pin1 by phage display led to the development of this candidate molecule.
-
-<div class="badges">
   <div class="__dimensions_badge_embed__" data-doi="10.3389/fphys.2013.00018" data-style="small_rectangle"></div>
   <div class='altmetric-embed' data-badge-popover='left' data-doi="10.3389/fphys.2013.00018"></div>
 </div>
