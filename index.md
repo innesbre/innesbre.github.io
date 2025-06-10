@@ -79,6 +79,14 @@ I began my PhD as high-throughput scRNAseq became available, and no best practic
 ### Publications
 
 <div class="badges">
+  <div class="__dimensions_badge_embed__" data-doi="10.1101/2024.03.05.583412" data-style="small_rectangle"></div>
+  <div class='altmetric-embed' data-badge-popover='left' data-doi="10.1101/2024.03.05.583412"></div>
+</div>
+Landon-Brace N, **Innes BT**, Latour S, Cadavid JL, Co IL, Tan CM, Nowlan F, Drissler S, Notta F, Jackson HW, Bader GD, McGuigan AP.  [Single-cell analysis of an engineered organoid-based model of pancreatic cancer identifies hypoxia as a contributing factor in the determination of transcriptional subtypes](https://doi.org/10.1101/2024.03.05.583412). BioRxiv, 2024.   
+- Developed robustness-based metric for selecting the appropriate number of clusters.
+- Guided lead author through analysis workflow and GSEA.
+
+<div class="badges">
   <div class="__dimensions_badge_embed__" data-doi="10.3389/fnins.2022.1027116" data-style="small_rectangle"></div>
   <div class='altmetric-embed' data-badge-popover='left' data-doi="10.3389/fnins.2022.1027116"></div>
 </div>
