@@ -4,19 +4,20 @@ title: CV
 ---
 
 # Summary
-- Biochemist-turned-bioinformatician excited about systems biology.  
+- Bioinformatician with background in biochemistry and systems biology.
+- Leader in modelling intercellular crosstalk.
 - Expert in analysis and interpretation of single-cell RNAseq data.
 - Passionate about data visualization.
-- Very comfortable helping biologists learn meaningful insights from their high-dimensional experimental data.
+- Love helping biologists make discoveries from high-dimensional data.
 - Demonstrated ability to learn new analysis techniques, data modalities, and biological contexts.
-- Expert in R statistical programming and dashboard building, comfortable building workflows in python and bash.
+- Expert in statistical programming and dashboard building in Python and R, comfortable building workflows in bash.
 
 
 # Education
 <table>
   <tr>
     <td>2016-2023</td>
-    <td>Ph.D. candidate, Molecular Genetics, University of Toronto<br>
+    <td>Ph.D., Molecular Genetics, University of Toronto<br>
         Thesis:	Intercellular signaling networks of a tissue from single-cell transcriptomics.<br>
         Advisor: <a href="https://baderlab.org/">Dr. Gary Bader</a></td>
   </tr>
@@ -33,7 +34,28 @@ title: CV
 </table>
 
 
-# Research Projects
+# Industry Experience
+
+## Phenomic AI
+*2023-2025: Bioinformatician*
+
+- Refined ligand-receptor inference method to increase accuracy 90% over state-of-the-art, and additionally model metabolite signaling.
+- Identified novel immuno-oncology drug targets by linking gene expression with targeted phenotype in presence of confounders.
+- Analyzed PERTURBseq-like co-culture screen to identify supporting interactions between tumour and microenvironment.
+- Inferred MOA of screen hits using intercellular signaling model.
+- Performed *de novo* cell typing on 24M cell scRNAseq data platform with >90% accuracy relative to author’s cell types.
+
+### Publications
+
+<div class="badges">
+  <div class="__dimensions_badge_embed__" data-doi="10.48550/arXiv.2503.20730" data-style="small_rectangle"></div>  
+  <div class='altmetric-embed' data-badge-popover='left' data-doi="10.48550/arXiv.2503.20730"></div>
+</div>
+Diaz-Mejia JJ, Williams E, Focsa O, Mendonca D, Singh S, **Innes BT**, Cooper S. [Benchmarking and optimizing organism wide single-cell RNA alignment methods](https://doi.org/10.48550/arXiv.2503.20730). International Conference on Learning Representations, Learning Meaningful Representations of Life Workshop, 2025.  
+- Implemented and tested scRNAseq data alignment methods for benchmarking.
+
+
+# Academic Research
 
 ## Cell-cell interaction prediction
 *2016-2023: PhD work under Dr. Gary Bader, University of Toronto.*  
