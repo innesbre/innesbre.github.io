@@ -4,7 +4,7 @@ title: CV
 ---
 
 # Summary
-- Bioinformatician with background in biochemistry and systems biology.
+- Bioinformatician with background in biochem and sysbio.
 - Leader in modelling intercellular crosstalk.
 - Expert in analysis and interpretation of single-cell RNAseq data.
 - Passionate about data visualization.
@@ -42,7 +42,7 @@ title: CV
 - Refined ligand-receptor inference method to increase accuracy 90% over state-of-the-art, and additionally model metabolite signaling.
 - Identified novel immuno-oncology drug targets by linking gene expression with targeted phenotype in presence of confounders.
 - Analyzed PERTURBseq-like co-culture screen to identify supporting interactions between tumour and microenvironment.
-- Inferred MOA of screen hits using intercellular signaling model.
+- Inferred mechanism-of-action of screen hits using my novel intercellular signaling model.
 - Performed *de novo* cell typing on 24M cell scRNAseq data platform with >90% accuracy relative to author’s cell types.
 
 ### Publications
@@ -52,7 +52,7 @@ title: CV
   <div class='altmetric-embed' data-badge-popover='left' data-doi="10.48550/arXiv.2503.20730"></div>
 </div>
 Diaz-Mejia JJ, Williams E, Focsa O, Mendonca D, Singh S, **Innes BT**, Cooper S. [Benchmarking and optimizing organism wide single-cell RNA alignment methods](https://doi.org/10.48550/arXiv.2503.20730). International Conference on Learning Representations, Learning Meaningful Representations of Life Workshop, 2025.  
-- Implemented and tested scRNAseq data alignment methods for benchmarking.
+- Benchmarking scRNAseq data alignment methods.
 
 
 # Academic Research
