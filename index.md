@@ -37,7 +37,7 @@ title: CV
 # Industry Experience
 
 ## Phenomic AI
-*2023-2025: Data Scientist*
+*2023-2025: Data Scientist*  
 At Phenomic's bioinformatics group I worked in a handful of small teams to expand our data platform and add functionality, identify novel therapeutic targets for a pharmaceutical collaborator, and build our lead molecule’s data package.
 **Major contributions**
 - Refined ligand-receptor inference method to increase accuracy 90% over state-of-the-art and add metabolite signaling inference.
