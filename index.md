@@ -38,8 +38,10 @@ title: CV
 
 ## Phenomic AI
 *2023-2025: Data Scientist*  
-At Phenomic's bioinformatics group I worked in a handful of small teams to expand our data platform and add functionality, identify novel therapeutic targets for a pharmaceutical collaborator, and build our lead molecule’s data package.
-**Major contributions**
+
+At Phenomic's bioinformatics group I worked in a handful of small teams to expand our data platform and add functionality, identify novel therapeutic targets for a pharmaceutical collaborator, and build our lead molecule’s data package.  
+
+**Major contributions**  
 - Refined ligand-receptor inference method to increase accuracy 90% over state-of-the-art and add metabolite signaling inference.
 - Identified novel immuno-oncology drug targets by linking gene expression with targeted phenotype in presence of confounders.
 - Modelled intercellular signaling in tumour-microenvironment PERTURBseq-like screen to identify chemoprotective interactions.
@@ -62,6 +64,7 @@ Diaz-Mejia JJ, Williams E, Focsa O, Mendonca D, Singh S, **Innes BT**, Cooper S.
 *2016-2023: PhD work under Dr. Gary Bader, University of Toronto.*  
 
 My most recent PhD work focuses on predicting ligand-receptor interactions from scRNAseq data. First I leveraged our lab's experience making similar predictions from bulk transcriptomes to build [CCInx](https://baderlab.github.io/CCInx/vignettes/CCInxUsage.html). While considering approaches to improve the specificity of our predictions, I identified a flawed assumption underpinning the current state-of-the-art methods.  
+
 **Skills learned/applied:**
 - Data cleaning, supervised ML.
 - Interactive and static data visualizations.
@@ -91,6 +94,7 @@ Ximerakis M, Lipnick SL, **Innes BT**, Simmons SK, Adiconis X, Dionne D, Nguyen 
 *2016-2023: PhD work under Dr. Gary Bader, University of Toronto.*  
 
 I began my PhD as high-throughput scRNAseq became available, and no best practices existed. A community of trainees came together to form the [Toronto scAnalysis working group](https://bit.ly/TOscRNAseq) to tackle this challenge.  Learning how to analyze this new data modality while contributing heavily to this community was the highlight of my PhD. I built and maintained a custom workflow and reporting tool based on our assessments of available methods, and expanded on it as needed for our various scientific collaborations.  This tool, [scClustViz](https://baderlab.github.io/scClustViz/) has enabled my collaborators to interpret their own scRNAseq data and [share our published results](http://shiny.baderlab.org/).  
+
 **Skills learned/applied:**
 - Workflow construction, package publication in R.
 - Interactive and static data visualizations.
@@ -183,6 +187,7 @@ Yuzwa SA, Borrett MJ, **Innes BT**, Voronova A, Ketela T, Kaplan DR, Bader GD, M
 *2009-2013: Honours thesis and MSc work under Dr. David Litchfield, University of Western Ontario.*  
 
 Studied the structural effects of oxidative stress on Pin1 isomerase activity, as well as its domain-specific binding mechanisms. Systematically assayed structural requirements for novel small-molecule Pin1 inhibitors.  
+
 **Relevant skills learned:**
 - Enzyme structure/function relationship in the context of substrate binding kinetics.
 - Experimental design, interpretation of literature, scientific writing.
