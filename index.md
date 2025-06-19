@@ -37,13 +37,14 @@ title: CV
 # Industry Experience
 
 ## Phenomic AI
-*2023-2025: Bioinformatician*
-
-- Refined ligand-receptor inference method to increase accuracy 90% over state-of-the-art, and additionally model metabolite signaling.
+*2023-2025: Data Scientist*
+At Phenomic's bioinformatics group I worked in a handful of small teams to expand our data platform and add functionality, identify novel therapeutic targets for a pharmaceutical collaborator, and build our lead molecule’s data package.
+**Major contributions**
+- Refined ligand-receptor inference method to increase accuracy 90% over state-of-the-art and add metabolite signaling inference.
 - Identified novel immuno-oncology drug targets by linking gene expression with targeted phenotype in presence of confounders.
-- Analyzed PERTURBseq-like co-culture screen to identify supporting interactions between tumour and microenvironment.
-- Inferred mechanism-of-action of screen hits using my novel intercellular signaling model.
+- Modelled intercellular signaling in tumour-microenvironment PERTURBseq-like screen to identify chemoprotective interactions.
 - Performed *de novo* cell typing on 24M cell scRNAseq data platform with >90% accuracy relative to author’s cell types.
+- Built in-house bioinformatics analysis and reporting Python toolkit.
 
 ### Publications
 
