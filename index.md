@@ -45,8 +45,13 @@ At Phenomic's bioinformatics group I worked in a handful of small teams to expan
 - Refined ligand-receptor inference method to increase accuracy 90% over state-of-the-art and add metabolite signaling inference.
 - Identified novel immuno-oncology drug targets by linking gene expression with targeted phenotype in presence of confounders.
 - Modelled intercellular signaling in tumour-microenvironment PERTURBseq-like screen to identify chemoprotective interactions.
-- Performed *de novo* cell typing on 24M cell scRNAseq data platform with >90% accuracy relative to author’s cell types.
-- Built in-house bioinformatics analysis and reporting Python toolkit.
+- Applied our variational autoencoder and network inferrence to cell type 24M cells with >90% accuracy relative to author labels.
+- Built in-house bioinformatics analysis and reporting Python toolkit.  
+**Skills learned/applied:**
+- Biological and pharmacological factors affection drug target selection.
+- Interpreting needs and communicating results with industry partners.
+- Automated visualization and reporting of genomic data in Python.
+- Coordinating codebase improvements between teams with git.
 
 ### Publications
 
@@ -55,7 +60,7 @@ At Phenomic's bioinformatics group I worked in a handful of small teams to expan
   <div class='altmetric-embed' data-badge-popover='left' data-doi="10.48550/arXiv.2503.20730"></div>
 </div>
 Diaz-Mejia JJ, Williams E, Focsa O, Mendonca D, Singh S, **Innes BT**, Cooper S. [Benchmarking and optimizing organism wide single-cell RNA alignment methods](https://doi.org/10.48550/arXiv.2503.20730). International Conference on Learning Representations, Learning Meaningful Representations of Life Workshop, 2025.  
-- Benchmarking scRNAseq data alignment methods.
+- Benchmarking scRNAseq batch correction methods.
 
 
 # Academic Research
