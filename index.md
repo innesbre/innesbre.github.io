@@ -47,6 +47,7 @@ At Phenomic's bioinformatics group I worked in a handful of small teams to expan
 - Modelled intercellular signaling in tumour-microenvironment PERTURBseq-like screen to identify chemoprotective interactions.
 - Applied our variational autoencoder and network inferrence to cell type 24M cells with >90% accuracy relative to author labels.
 - Built in-house bioinformatics analysis and reporting Python toolkit.  
+
 **Skills learned/applied:**
 - Biological and pharmacological factors affection drug target selection.
 - Interpreting needs and communicating results with industry partners.
