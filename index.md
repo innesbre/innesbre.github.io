@@ -100,7 +100,7 @@ Li B, Rodrigo-Torres D, Pelz C, **Innes BT**, Canaday P, Chai S, Zandstra P, Bad
 </div>
 **Innes BT** & Bader GD. [Transcriptional signatures of cell-cell interactions are dependent on cellular context](https://doi.org/10.1101/2021.09.06.459134). biorxiv, 2021.  
 - Systematically demonstrated fundamental flaw in state-of-the-art cell-cell interaction inference methods.
-- Hypothesized potential solution from advances in other areas of systems biology.
+- Hypothesized potential solution from advances in systems biology.
 
 <div class="badges">
   <div class="__dimensions_badge_embed__" data-doi="10.1038/s41593-019-0491-3" data-style="small_rectangle"></div>
