@@ -4,7 +4,7 @@ title: CV
 ---
 
 # Summary
-- Bioinformatician with background in biochemistry and systems biology.
+- Bioinformatician with background in BioChem and SysBio.
 - 10 years of experience in computational biology.
 - Leader in modelling intercellular crosstalk.
 - Expert in analysis and interpretation of single-cell RNAseq data.
@@ -41,7 +41,7 @@ title: CV
 ## Copoly.ai
 *2025: Senior Bioinformatician*  
 
-As a consultant to a pharmaceutical company, built a benchmarking suite in Python to assess AI models informing in vitro drug target selection strategy.  
+As a consultant to a pharma company, built a benchmarking suite in Python to assess AI models informing in vitro drug target selection strategy.  
 
 ## Phenomic AI
 *2023-2025: Data Scientist*  
@@ -92,7 +92,7 @@ My most recent PhD work focuses on predicting ligand-receptor interactions from 
   <div class='altmetric-embed' data-badge-popover='left' data-doi="10.1016/j.stemcr.2025.102683"></div>
 </div>
 Li B, Rodrigo-Torres D, Pelz C, **Innes BT**, Canaday P, Chai S, Zandstra P, Bader GD, Grompe M. [Cell networks in the mouse liver during partial hepatectomy](https://doi.org/10.1016/j.stemcr.2025.102683). Stem Cell Reports, 2025.  
-- Guided lead authors through application of CCInx to their experimental data.
+- Applied CCInx on bulk transcriptomes from the mouse liver.
 
 <div class="badges">
   <div class="__dimensions_badge_embed__" data-doi="10.1101/2021.09.06.459134" data-style="small_rectangle"></div>
