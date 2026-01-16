@@ -88,6 +88,13 @@ My most recent PhD work focuses on predicting ligand-receptor interactions from 
 ### Publications
 
 <div class="badges">
+  <div class="__dimensions_badge_embed__" data-doi="10.1016/j.stemcr.2025.102683" data-style="small_rectangle"></div>
+  <div class='altmetric-embed' data-badge-popover='left' data-doi="10.1016/j.stemcr.2025.102683"></div>
+</div>
+Li B, Rodrigo-Torres D, Pelz C, **Innes BT**, Canaday P, Chai S, Zandstra P, Bader GD, Grompe M. [Cell networks in the mouse liver during partial hepatectomy](https://doi.org/10.1016/j.stemcr.2025.102683). Stem Cell Reports, 2025.  
+- Guided lead authors through application of CCInx to their experimental data.
+
+<div class="badges">
   <div class="__dimensions_badge_embed__" data-doi="10.1101/2021.09.06.459134" data-style="small_rectangle"></div>
   <div class='altmetric-embed' data-badge-popover='left' data-doi="10.1101/2021.09.06.459134"></div>
 </div>
