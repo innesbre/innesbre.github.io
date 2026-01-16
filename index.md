@@ -4,11 +4,13 @@ title: CV
 ---
 
 # Summary
-- Bioinformatician with background in biochem and sysbio.
+- Bioinformatician with background in biochemistry and systems biology.
+- 10 years of experience in computational biology.
 - Leader in modelling intercellular crosstalk.
 - Expert in analysis and interpretation of single-cell RNAseq data.
 - Passionate about data visualization.
-- Love helping biologists make discoveries from high-dimensional data.
+- Love helping stakeholders learn from their high-dimensional data.
+- Experience pitching drug targets.
 - Demonstrated ability to learn new analysis techniques, data modalities, and biological contexts.
 - Expert in statistical programming and dashboard building in Python and R, comfortable building workflows in bash.
 
@@ -35,6 +37,11 @@ title: CV
 
 
 # Industry Experience
+
+## Copoly.ai
+*2025: Senior Bioinformatician*  
+
+As a consultant to a pharmaceutical company, built a benchmarking suite in Python to assess AI models informing in vitro drug target selection strategy.  
 
 ## Phenomic AI
 *2023-2025: Data Scientist*  
