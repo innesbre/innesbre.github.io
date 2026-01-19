@@ -46,7 +46,7 @@ As a consultant to a pharma company, built a benchmarking suite in Python to ass
 ## Phenomic AI
 *2023-2025: Data Scientist*  
 
-At Phenomic's bioinformatics group I worked in a handful of small teams to expand our data platform and add functionality, identify novel therapeutic targets for a pharmaceutical collaborator, and build our lead molecule’s data package.  
+Improved our data dashboard, generated novel targets for a pharma client, and expanded our lead molecule’s data package.  
 
 **Major contributions**  
 - Refined ligand-receptor inference method to increase accuracy 90% over state-of-the-art and add metabolite signaling inference.
